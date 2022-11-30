@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "815289173407",
+    "project_id": "free-dictionary-ba33b",
+    "storage_bucket": "free-dictionary-ba33b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815289173407:android:0ef6988bbe586fec8729aa",
+        "android_client_info": {
+          "package_name": "com.example.freedictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815289173407-djp6ce6afm225ubci5qu4f1lirh6t4sq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.freedictionary",
+            "certificate_hash": "0bfaf96d2b56a2882bf5a5a1a9dd439a7d11a97f"
+          }
+        },
+        {
+          "client_id": "815289173407-l7h255fs2kvhamt2lm9kmlq61vdsvu1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdFKMAzoB_shC2IuSCP6rM8fYh1N5mVZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815289173407-l7h255fs2kvhamt2lm9kmlq61vdsvu1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

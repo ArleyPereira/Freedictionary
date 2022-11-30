@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">FreeDictionary</string>
+    <string name="app_name_database">free_dictionary_database</string>
+
+    <!--    Generic-->
+    <string name="text_name_empty">Digite seu nome</string>
+    <string name="text_email_empty">Digite seu e-mail</string>
+    <string name="text_phone_empty">Digite seu telefone</string>
+    <string name="text_phone_invalid">Digite um telefone válido</string>
+    <string name="text_password_empty">Digite sua senha</string>
+
+    <string name="tab_name_word">Word list</string>
+    <string name="tab_name_history">History</string>
+    <string name="tab_name_favorite">Favorites</string>
+
+    <!--    BottomSheet-->
+    <string name="text_title_bottom_sheet">Atenção</string>
+    <string name="text_button_bottom_sheet">Entendi</string>
+    <string name="error_generic">Ocorreu um erro, por favor tente novamente mais tarde.</string>
+
+    <!--    DetailsFragment-->
+    <string name="text_meanings_details_fragment">Meanings</string>
+    <string name="text_button_back_details_fragment">Voltar</string>
+    <string name="text_button_next_details_fragment">Próximo</string>
+    <string name="message_save_favorite_sucesso_details_fragment">Favorito salvo com sucesso</string>
+    <string name="message_save_favorite_error_details_fragment">Não foi possível salvar em favorito, tente novamente mais tarde.</string>
+    <string name="message_remove_favorite_sucesso_details_fragment">Favorito removido com sucesso</string>
+    <string name="message_remove_favorite_error_details_fragment">Não foi possível remover em favorito, tente novamente mais tarde.</string>
+    <string name="text_item_meaning_details_fragment">%1$d - %2$s</string>
+
+    <!--    FavoritesFragment-->
+    <string name="text_favorite_empty_favorites_fragment">Nenhum favorito encontrado</string>
+
+    <!--    HistoricFragment-->
+    <string name="text_favorite_empty_historic_fragment">Nenhum histórico encontrado</string>
+
+    <!--    RecoverFragment-->
+    <string name="text_title_toolbar_recover_fragment">Recuperar conta</string>
+    <string name="text_message_recover_fragment">Digite seu e-mail que te enviaremos um link para você alterar sua senha.</string>
+    <string name="text_label_email_recover_fragment">E-mail</string>
+    <string name="text_hint_email_recover_fragment">Digite seu email</string>
+    <string name="text_btn_send_email_recover_fragment">Enviar email</string>
+    <string name="text_message_send_email_success_recover_fragment">Email enviado com sucesso.</string>
+
+    <!--    RegisterFragment-->
+    <string name="text_title_toolbar_register_fragment">Criar conta</string>
+    <string name="text_label_email_register_fragment">E-mail</string>
+    <string name="text_hint_email_register_fragment">Digite seu email</string>
+    <string name="text_label_password_register_fragment">Senha</string>
+    <string name="text_hint_password_register_fragment">Digite uma senha</string>
+    <string name="text_btn_register_fragment">Cadastrar</string>
+
+    <!--    LoginFragment-->
+    <string name="text_hint_email_login_fragment">E-mail</string>
+    <string name="text_hint_password_login_fragment">Password</string>
+    <string name="text_btn_login_fragment">Entrar</string>
+    <string name="text_btn_register_login_fragment">Criar conta</string>
+    <string name="text_btn_recover_login_fragment">Recuperar conta</string>
+
+    <!--    Erros Firebase Authentication-->
+    <string name="account_not_registered_register_fragment">Nenhuma conta encontrada com este e-mail.</string>
+    <string name="invalid_email_register_fragment">Insira um e-mail válido.</string>
+    <string name="invalid_password_register_fragment">Senha inválida, tente novamente.</string>
+    <string name="email_in_use_register_fragment">Este e-mail já está em uso.</string>
+    <string name="strong_password_register_fragment">Insira uma senha mais forte.</string>
+</resources>
